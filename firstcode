@@ -1,0 +1,12 @@
+var openLetter = confirm("You find a letter from your Aunt Hilde. Do you want to open it?");
+alert(openLetter);
+if (openLetter == True) {}
+//open the letter from Hilde
+alert("You open the letter from your Aunt, and begin to read.");
+}
+else{
+//you don't open the letter
+alert("You don't even remember Hilde. You tuck the letter into your book. Perhaps you'll return to it one day... 
+You turn out the light, and go to sleep.");
+
+}
